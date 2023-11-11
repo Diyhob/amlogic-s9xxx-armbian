@@ -85,7 +85,7 @@ on:
         options:
           - ophub
           - angel
-          - yourname
+          - DIYHob
 
 env:
   TZ: Asia/Ho_Chi_Minh
